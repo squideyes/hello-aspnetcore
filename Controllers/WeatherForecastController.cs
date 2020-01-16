@@ -13,7 +13,7 @@ namespace HelloAspNetCore.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "HOT", "COLD", "WET"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
